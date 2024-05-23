@@ -70,10 +70,11 @@ body {
     background-color: #fff;
 }
 
-.footer-c {
-    padding-top: 120px;
+/* .footer-c {
     text-align: center;
-}
+    margin-left: 80px;
+    font-size: 12px;
+} */
 
 .template .page-title {
     font-weight: 400;

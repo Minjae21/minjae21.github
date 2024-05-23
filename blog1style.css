@@ -76,9 +76,9 @@ img {
 }
 
 .footer-c {
-    margin-left: 100px;
-    padding-top: 50px;
     text-align: center;
+    margin-left: 80px;
+    font-size: 12px;
 }
 
 .template .page-title {

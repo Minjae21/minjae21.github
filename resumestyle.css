@@ -10,6 +10,11 @@ body {
     margin: 0;
 }
 
+p {
+    text-align: left;
+    font-size: 14px;
+}
+
 #wrapper {
     z-index: 51;
     min-height: 100%;
@@ -72,7 +77,8 @@ body {
 
 .footer-c {
     text-align: center;
-    padding-left: 50px;
+    margin-left: 80px;
+    font-size: 12px;
 }
 
 .template .page-title {
@@ -100,15 +106,25 @@ h3 {
     font-size: 20px;
 }
 
-.resume-logo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
-    padding: 30px;
+.main {
+    margin: 50px;
+    padding-left: 60px;
 }
 
-.resume-item {
-    text-align: center;
-    font-size: 13px;
+.main-container {
+    display: flex;
+    align-items: center;
+}
+
+.main-img {
+    padding-left: 120px;
+}
+
+.resume-item-list {
+   text-align: center;
+   padding-left: 200px;
+}
+
+.job-comp {
+    text-align: left;
 }

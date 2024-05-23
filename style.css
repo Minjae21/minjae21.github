@@ -424,5 +424,6 @@ p {
 
 .footer-c {
     text-align: center;
-    padding-left: 100px;
+    margin-left: 80px;
+    font-size: 12px;
 }
